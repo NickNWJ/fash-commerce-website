@@ -12,7 +12,7 @@ const Container = styled.div`
 `;
 
 const Announcement = () => {
-  return <Container>Free Delivery Over RM300</Container>;
+  return <Container>📢 Free Delivery Over RM300</Container>;
 };
 
 export default Announcement;
